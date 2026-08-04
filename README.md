@@ -1,19 +1,21 @@
-# :earth_americas: GDP dashboard template
+# 🛡️ gdp-dashboard
 
-A simple Streamlit app showing the GDP of different countries in the world.
+Sovereign Project: gdp-dashboard | Part of the Al-Wakra Fort Ecosystem.
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://gdp-dashboard-template.streamlit.app/)
+## 🌟 Overview
+This repository is fully structured and integrated with the **JOJO Sovereign Nucleus** (`http://127.0.0.1:9379`) and **OmniRoute Fleet** (`http://127.0.0.1:20128`).
 
-### How to run it on your own machine
+## 🏢 5 Business Slots Support
+- Real Estate (`real_estate`)
+- Business Processing (`processing`)
+- Garage (`garage`)
+- Legal (`legal`)
+- Accounting (`accounting`)
 
-1. Install the requirements
+## ⚙️ Setup & Execution
+```bash
+# Standard setup
+cp .env.example .env
+```
 
-   ```
-   $ pip install -r requirements.txt
-   ```
-
-2. Run the app
-
-   ```
-   $ streamlit run streamlit_app.py
-   ```
+© 2026 Sovereign Al-Wakra Fort Ecosystem.
